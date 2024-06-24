@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeckajecka
-- 👀 I’m interested in ... Android development , iOS , flutter , CSS , HTML , Kotlin 
-- 🌱 I’m currently learning ... Curl
+- 👀 I’m interested in ... Android development , iOS , flutter , CSS , HTML , Kotlin and I'm a Professional Scrum Master 
+- 🌱 I’m currently learning ... Curl 
 - - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jesseca.cortez@gmail.com
 
